@@ -1,0 +1,2 @@
+# EJERCICIO12
+Reto Semanal # 12 J2LOGO
